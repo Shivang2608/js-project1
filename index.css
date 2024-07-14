@@ -1,0 +1,34 @@
+div{
+    text-align: center;
+    padding: 0 25vw;
+}
+h1{
+    font-size: 5vw;
+   justify-content: center;
+   display: grid;
+}
+h2{
+    font: 2vw;
+    justify-content: center;
+    display: grid;
+ }
+
+
+.button{
+    padding: 7vw;
+}
+.grey{
+    background-color: grey;
+}
+.yellow{
+    background-color: yellow;
+}
+.purple{
+    background-color: purple;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
